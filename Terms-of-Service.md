@@ -22,7 +22,7 @@ use our Services. If you are an individual using our Services on behalf of an en
 you represent and warrant that you have the authority to bind that entity to the
 Agreement and that by using our Service(s), you are accepting the Agreement on behalf of
 that entity. Your Agreement is with Book Genesis, Inc. We refer to Book Genesis, Inc.
-collectively as “Book Genesis” or “we” throughout these Terms.
+collectively as “Book Genesis” or “we”/“us” throughout these Terms.
 
 ## 2\. Your Account
 
@@ -44,11 +44,11 @@ any unauthorized uses of your account, store, or website, or of any other breach
 security. We will not be liable for any acts or omissions by you, including any damages
 of any kind incurred as a result of such acts or omissions.
 
-When you create a WordPress.com account, we consider that to be an inquiry about our
-products and services, which means that we may contact you to share more details about
-what we have to offer. Don't worry -- if you aren't interested in learning more, you can
-opt out of the marketing communication, whether it's an email, phone call, or text
-message.
+When you create a [BookGenesis.com](https://bookgenesis.com) account, we consider that
+to be an inquiry about our products and services, which means that we may contact you to
+share more details about what we have to offer. If you aren't interested in learning
+more, you can opt out of the marketing communication, whether it's an email, phone call,
+or text message.
 
 ## 3\. Minimum Age Requirements
 
@@ -71,19 +71,24 @@ responsible for any use or effects of such Content. So, for example:
   privacy, publicity rights, intellectual property rights (see our Copyright
   Infringement and DMCA Policy section to submit copyright complaints), or other
   proprietary rights of third parties.
+
 * If you post Content, comment on a website, or otherwise make (or allow any third party
   to make) Content available on our Services, you are entirely responsible for the
   Content, and any harm resulting from, that Content or your conduct.
+
 * We disclaim any responsibility for any harm resulting from anyone’s use, purchase, or
   downloading of Content. If you access or use any Content, you are responsible for
   taking precautions as necessary to protect yourself and your computer systems from
   viruses, worms, Trojan horses, and other harmful or destructive content.
+
 * Any Content offered for sale through any of our Services are the seller’s sole
   responsibility, and you agree that you will look solely to the seller for any damages
   that result from your purchase or use of Content.
+
 * We are not a party to, and will have no responsibility or liability for, any
   communications, transactions, interactions, or disputes between you and the provider
   of any Content.
+
 * Please note that additional third party terms and conditions may apply to the
   downloading, copying, purchase, or use of Content.
 
@@ -93,34 +98,26 @@ from, WordPress.com or our other Services. For example:
 
 * We do not have any control over those websites and are not responsible for their
   contents or their use.
+
 * The existence of a link to or from one of our Services does not represent or imply
   that we endorse such website.
+
 * You are responsible for taking precautions as necessary to protect yourself and your
   computer systems from viruses, worms, Trojan horses, and other harmful or destructive
   content.
-* We disclaim any responsibility for any harm resulting from non-Automattic websites.
+
+* We disclaim any responsibility for any harm resulting from non-Book Genesis websites.
 
 ## 5\. Fees, Payment, and Renewal
 
-### a. Automattic Fees
-
-**Fees for Paid Services.** Some of our Services are offered for a fee, such as Happy
-Tools, Jetpack plans, WordPress.com plans, and some Ecommerce Services (collectively,
-“Paid Services”). By using a Paid Service, you agree to pay the specified fees (for
-example, [Jetpack fees](https://jetpack.com/pricing/), [VaultPress
-fees](https://vaultpress.com/plans/), [WordPress.com
-fees](https://wordpress.com/pricing/), and fees associated with specific features, such
-as [Recurring Payments](https://en.support.wordpress.com/recurring-payments-button/),
-[WooCommerce Payments](https://docs.woocommerce.com/document/payments/faq/fees/), and
-[domain name registration and
-renewal](https://en.support.wordpress.com/domains/domain-pricing-and-available-tlds/)).
+**Fees for Paid Services.** Some of our Services are offered for a fee, such as [EPUB
+Preflight](https://epubpreflight.com) (collectively,“Paid Services”). By using a Paid
+Service, you agree to pay the specified fees and fees associated with specific features.
 Depending on the Paid Service, there may be one-time fees, recurring fees, or
 revenue-based fees. For recurring fees, we’ll bill or charge you for in regular
 automatically-renewing intervals (such as monthly, annually, or biennially), on a
-pre-pay basis until you cancel, which you can do at any time by contacting the relevant
-support team. For revenue-based fees -- such as [fees for Recurring
-Payments](https://en.support.wordpress.com/recurring-payments-button/#related-fees) for
-your website’s subscriptions -- you pay us a percentage of the revenue your website
+pre-pay basis until you cancel, which you can do at any time by contacting the support
+team. For revenue-based fees, you pay us a percentage of the revenue your website
 generates. Revenue-based fees are ongoing. 
 
 **Taxes.** To the extent permitted by law, or unless explicitly stated otherwise, all
@@ -141,71 +138,27 @@ automatically renewed. This means that unless you cancel a Paid Service before t
 of the applicable subscription period, it will automatically renew, and you authorize us
 to invoice you or use any payment mechanism we have on record for you to collect the
 then-applicable subscription fee (as well as any Taxes). By default, your Paid Services
-will be renewed for the same interval of time as your original subscription period. For
-example, if you purchase a WordPress.com annual plan, you will be charged each year for
-the following 12-month period. We may charge your account up to one month before the end
-of the subscription period. It is your responsibility to make sure you are checking your
-email (including any spam or other filters) in order to receive any reminder email we
-send to you in advance of renewal. The date for the automatic renewal is determined
-automatically based on the date of the original purchase and cannot be changed. You can
-view your renewal date for WordPress.com Paid Services by visiting your [Manage
-Purchases page](https://wordpress.com/me/purchases). For more information about how
-WordPress.com subscriptions work, please see our [Manage Purchases, Renewals &
-Cancellations support page](https://en.support.wordpress.com/manage-purchases/). 
+will be renewed for the same interval of time as your original subscription period. We
+may charge your account up to one month before the end of the subscription period. It is
+your responsibility to make sure you are checking your email (including any spam or
+other filters) in order to receive any reminder email we send to you in advance of
+renewal. The date for the automatic renewal is determined automatically based on the
+date of the original purchase and cannot be changed. 
 
 **Cancelling Automatic Renewal.** You can manage and cancel your Paid Services at the
-respective Service’s site. For example, you can manage all of your WordPress.com plans
-through your WordPress.com [Manage Purchases page](https://wordpress.com/me/purchases).
-To cancel a WordPress.com plan, go to your [Manage Purchases
-page](https://wordpress.com/me/purchases), click on the plan you wish to cancel, then
-follow the instructions to “cancel the subscription.” You must repeat this process for
-each subscription you wish to cancel.
+respective Service’s site. You must repeat this process for each subscription you wish
+to cancel.
 
 **Fee Changes.** We may change our fees at any time, or start charging fees for Services
 that were previously free. When applicable, we may give you advance notice of the fee
 changes. If you don’t agree with the fee changes, you must cancel your Paid Service.
 
-**No-Show Policy.** We may have a “no-show policy” for some Paid Services (for example,
-for our [Quick Start
-sessions](https://en.support.wordpress.com/concierge-support/#purchasing-a-session)),
-which means that if you fail to show up or are late for a scheduled session, we may
-withhold the Service without a refund.
+**No-Show Policy.** We may have a “no-show policy” for some Paid Services, which means
+that if you fail to show up or are late for a scheduled session, we may withhold the
+Service without a refund.
 
 **Refunds.** While you may cancel a Paid Service at any time, refunds are issued in our
 sole discretion, unless otherwise required by applicable law.
-
-### b. Fees Collected by Website Owners 
-
-**Fees Paid to Websites or Website Owners.** Website owners may choose to sell items
-(goods, content, services, etc.), offer subscriptions for their websites at specific
-price points and intervals, or simply collect payments. Please note that we are not
-involved in a website's subscription details, or a website's store operations (including
-the quality, timing, pricing, or legality of what may or may not be included in exchange
-for payment, or any goods or services purchased). If you purchase items or subscriptions
-from a website, your purchase is directly from the website owner, who is solely
-responsible for the items sold. Please contact the website owner if you have any
-questions or complaints.
-
-**Automatic Renewal.** Any recurring payments you make to a website owner (such as a
-[website subscription](https://en.support.wordpress.com/recurring-payments/)) are
-automatically renewed. This means that unless you cancel your website subscription
-before the end of the applicable renewal period, it will automatically renew. Your
-recurring payments will be renewed for the same interval of time as your original
-subscription period. For example, for an annual renewal schedule for your website
-subscription, you will be charged each year. You can view your renewal date by visiting
-your [Other Sites page](https://wordpress.com/me/purchases/other).
-
-**Cancelling Automatic Renewal of Website Subscriptions.** You can manage and cancel
-your website subscriptions at your [Other Sites
-page](https://wordpress.com/me/purchases/other). Click on the automatically renewing
-payment you wish to cancel, then follow the instructions to cancel. You must repeat this
-process for each website subscription you wish to cancel.
-
-**Refunds.** We are not responsible for refunds for fees paid to a website owner because
-those transactions are between website owners and their users. If you would like to
-request a refund for any fees paid to a website or website owner, please contact the
-website owner. If you have a complaint regarding a website owner, you can [contact
-us](https://en.wordpress.com/abuse/).
 
 ## 6\. General Representation and Warranty
 
@@ -221,7 +174,8 @@ You represent and warrant that your use of our Services:
   furtherance of illegal activities;
 * Will not infringe or misappropriate the intellectual property rights of any third
   party;
-* Will not overburden Automattic’s systems, as determined by us in our sole discretion;
+* Will not overburden Book Genesis’s systems, as determined by us in our sole
+  discretion;
 * Will not disclose sensitive personal information of others;
 * Will not be used to send spam or bulk unsolicited messages;
 * Will not interfere with, disrupt, or attack any service or network; and
@@ -247,15 +201,15 @@ please visit our [dispute resolution and reporting
 page](http://en.support.wordpress.com/disputes/). 
 
 **Your WordPress.com Website.** If you create a website on WordPress.com, you get to use
-an Automattic-owned subdomain, such as example.wordpress.com or mollys.food.blog. You
+an Book Genesis-owned subdomain, such as example.wordpress.com or mollys.food.blog. You
 must not engage in “domain squatting,” claim an unreasonable number of subdomains (as
 determined by us), or sell access to any subdomains. 
 
-**License.** By submitting Content to Automattic for inclusion on your website, you
-grant Automattic a world-wide, royalty-free, and non-exclusive license to reproduce,
+**License.** By submitting Content to Book Genesis for inclusion on your website, you
+grant Book Genesis a world-wide, royalty-free, and non-exclusive license to reproduce,
 modify, adapt, and publish the Content solely for the purpose of displaying,
-distributing, and promoting your website. This license also allows Automattic to make
-any publicly-posted Content available to third parties selected by Automattic (through
+distributing, and promoting your website. This license also allows Book Genesis to make
+any publicly-posted Content available to third parties selected by Book Genesis (through
 [Firehose](https://developer.wordpress.com/docs/firehose/), for example) so that these
 third parties can analyze and distribute (but not publicly display) the Content through
 their services. You also give other WordPress.com users permission to share your Content
@@ -272,13 +226,13 @@ Content may not be made immediately unavailable.
 
 **Web Traffic.** We use a third party, comScore, Inc. (“comScore”), to measure
 WordPress.com’s audience and usage. By hosting your website on WordPress.com, you agree
-to assign the traffic relating to your website to Automattic and authorize us to sign a
-Traffic Assignment Letter on your behalf for comScore audience measurement reports. Your
-website’s traffic will be included under Automattic. You understand that your website
-will not receive credit for traffic in these reports, and you must not assign your
-website’s traffic to any other party. If we or comScore require additional documentation
-to verify ownership of your website or domain name, you agree to make reasonable efforts
-to accommodate such requests. 
+to assign the traffic relating to your website to Book Genesis and authorize us to sign
+a Traffic Assignment Letter on your behalf for comScore audience measurement reports.
+Your website’s traffic will be included under Book Genesis. You understand that your
+website will not receive credit for traffic in these reports, and you must not assign
+your website’s traffic to any other party. If we or comScore require additional
+documentation to verify ownership of your website or domain name, you agree to make
+reasonable efforts to accommodate such requests. 
 
 **Prohibited Uses.** By using WordPress.com, you represent and warrant that your Content
 and conduct do not violate the [User
@@ -300,370 +254,31 @@ these attributions might look like, and under which circumstances (if any) they 
 altered or removed, please see our [Admin and Action Bars support
 page](https://en.support.wordpress.com/admin-bar/). 
 
-**Friends of WP.com Themes.** By activating a partner theme from the Friends of WP.com
-section of our themes directory, you agree to that partner’s terms of service. You can
-decline the terms of service at any time by deactivating the partner theme. 
-
-**Domain Names.** We act as a registrar and also work with third party registrars in
-order to provide domain name services. When you register a domain name on WordPress.com
-or transfer an existing domain name to WordPress.com,  the [policies of the respective
-registry](https://en.support.wordpress.com/registry-policies/) apply, and you become
-bound by the relevant registrar’s terms and conditions, either the [Automattic Domain
-Name Registration
-Agreement](https://wordpress.com/automattic-domain-name-registration-agreement/),
-[Key-Systems GmbH Registration
-Agreement](https://www.rrpproxy.net/Legal/Registration_Agreement), [Tucows Domain Inc.
-Registration Agreement](https://opensrs.com/wp-content/uploads/Tucows_ExhibitA.html), or
-[this Domain Name Registration
-Agreement](https://www.secureserver.net/legal-agreement?id=reg_sa&pageid=reg_sa&pl_id=391143),
-in addition to these Terms. When you register a domain, you're presented with and agree
-to the relevant domain registration agreement. If you didn't make a note of it, you can
-look it up at any time. Please see [this
-page](http://en.support.wordpress.com/domain-registration-agreements) for instructions
-on how to determine which domain registration agreement(s) apply to you and your
-domains. These registrar terms are incorporated by reference into these Terms.
-
-Your use of your domain name is also subject to the policies of the Internet Corporation
-for Assigned Names and Numbers (“ICANN”). You can read about [your rights and
-responsibilities as a domain name
-registrant](http://www.icann.org/en/resources/registrars/registrant-rights/benefits)
-under ICANN’s Registrar Accreditation Agreement and about [domain name registration
-generally](https://www.icann.org/resources/pages/educational-2012-02-25-en). 
-
-For details about what happens during the domain expiration process, and how we may
-notify you of domain expiration, please see the [Domain Expiration
-page](https://en.support.wordpress.com/domains/domain-expiration/). Please refer to the
-[domain pricing and available TLDs
-page](https://en.support.wordpress.com/domains/domain-pricing-and-available-tlds/) for
-details about fees associated with domain registrations, renewals, and redemptions.
-
-When you register a domain name, you’re required to provide complete and accurate
-registration information. In most cases, the contact information you provide as part of
-the registration process will be used as your administrative contact, technical contact,
-and billing contact. This contact information can be [updated at any
-time](https://en.support.wordpress.com/update-contact-information/).
-
-If the domain name registration information you’ve provided differs from the
-WordPress.com account holder’s information, we consider the administrative contact in
-the domain’s WHOIS records (the contact information provided on WordPress.com as part of
-the domain registration process) to be the owner of the domain, with full authority to
-manage the domain.
-
-### b. Jetpack
-
-Jetpack is a plugin that connects your self-hosted WordPress website to WordPress.com’s
-infrastructure to give you powerful WordPress.com features. 
-
-**Jetpack Content.** You’re fully responsible for the content of any website you own
-that runs Jetpack (“Jetpack Content”). 
-
-**Features.** Jetpack includes various features, and you can visit Jetpack.com to learn
-more about them. Some features, like Enhanced Distribution, when activated, will include
-your Jetpack Content in [Firehose](https://developer.wordpress.com/docs/firehose/). By
-activating these features, you grant us permission to display your Jetpack Content on
-WordPress.com for the purpose of distributing and promoting your website. Some features
-are on by default and others you need to enable manually. You can see which features are
-active, and activate and deactivate features, on your dashboard. 
-
-**License.**  By using Jetpack, you grant us access to your website’s servers for the
-purpose of backing up and securing your Jetpack Content, and restoring files and
-database information (which may include access details for multiple servers or accounts
-for each website that we backup). Jetpack may temporarily install extra software on your
-website to backup your website and scan it for security vulnerabilities. In order to
-address security vulnerabilities, we may push an upgrade to your website or access your
-website to remove malicious code. We may also manually access your site to troubleshoot
-your support requests or if there's an emergency.
-
-You agree that we may scan your website, and compile aggregated/anonymized statistics
-for our internal use to optimize Jetpack’s performance. By submitting Content to
-Automattic for inclusion on your website, you grant Automattic a world-wide,
-royalty-free, and non-exclusive license to reproduce, modify, adapt, and publish the
-Content solely for the purpose of displaying, distributing, and promoting your website.
-This license also allows Automattic to make any publicly-posted Content available to
-third parties selected by Automattic (through
-[Firehose](https://developer.wordpress.com/docs/firehose/), for example) so that these
-third parties can analyze and distribute (but not publicly display) the Content through
-their services. 
-
-**Storage of Information.** Certain Jetpack features rely on WordPress.com servers to
-function, such as those that allow you to send email, publish links, relate posts to
-each other, or resize images. To take advantage of the performance boosting features of
-Jetpack, certain information about the Content, settings, and setup of your website are
-synced with our servers, as described on our [What Data Does Jetpack Sync? support
-page](https://jetpack.com/support/what-data-does-jetpack-sync/). 
-
-**Prohibited Uses.** Your website and Jetpack Content must comply with [Jetpack’s
-Service Guidelines](https://jetpack.com/service-guidelines/).
-
-### c. VaultPress
-
-VaultPress is a subscription-based security and backup service for self-hosted WordPress
-websites. 
-
-**VaultPress Content.** VaultPress will backup your WordPress content (e.g., your
-WordPress database, plugins, themes, and uploads, as well as some additional files, as
-described in [this introduction to
-VaultPress](https://help.vaultpress.com/get-to-know/)) (“VaultPress Content”). You can
-view the Content that VaultPress backs up via your [VaultPress
-dashboard](https://dashboard.vaultpress.com/). You’re fully responsible for your
-VaultPress Content. It’s your responsibility to ensure that your website’s Content
-abides by applicable laws and by these Terms. We don’t actively review the VaultPress
-Content. 
-
-**Access.** If you lose access to your WordPress.com account, you may not be able to
-access your backed up VaultPress Content. 
-
-**License.** By using VaultPress, you grant us access to your website’s servers for the
-purpose of backing up and securing your VaultPress Content, and restoring files and
-database information (which may include access details for multiple servers or accounts
-for each website that we backup). In order to address security vulnerabilities, we may
-push an upgrade to your website, or we may access your website to remove malicious code.
-We may also scan VaultPress Content and compile aggregated/anonymized statistics for our
-internal use to optimize the performance of the VaultPress service. You also grant us a
-worldwide, royalty-free, and non-exclusive license to copy and store your VaultPress
-Content, to the extent necessary to operate the VaultPress service. These Terms don’t
-give us any rights in your VaultPress Content, beyond those we need to operate
-VaultPress. You own your VaultPress Content. 
-
-**Cancellation.** If you cancel your subscription to VaultPress, we will queue your
-backed-up VaultPress Content for deletion.
-
-### d. Happy Tools
-
-Happy Tools is a suite of software and consulting services to help modern and
-distributed companies manage, grow, and support their business. 
-
-**Prohibited Uses.** You agree not to:
-
-* Modify, decompile, reverse engineer or otherwise alter or seek to derive the trade
-  secrets and other inherent intellectual property of Happy Tools; or
-* License, sublicense, sell, resell, rent, lease, transfer, assign, distribute, or
-  otherwise commercially exploit or make Happy Tools available to any third party, other
-  than your authorized users.
-
-### e. Ecommerce Services
-
-There are certain features offered via [WooCommerce](https://woocommerce.com/),
-[WooCommerce Services](https://wordpress.org/plugins/woocommerce-services/),
-WordPress.com, or Jetpack that enable you to sell items (goods, content, services, etc.)
-or receive payments on your website, such as WooCommerce Payments, Store, Simple
-Payments, and Recurring Payments (collectively, “Ecommerce Services”). If you use
-WooCommerce, the [WooCommerce Use Terms](https://woocommerce.com/terms-conditions/) also
-apply.
-
-If you use any Ecommerce Services, you represent and warrant that any information you
-provide about your business, products, and services is accurate, complete, and will be
-kept current. You agree to promptly notify us via [email](mailto:legal@wordpress.com) if
-you receive any inquiry or action from a government or regulatory agency (such as the
-Federal Trade Commission or a state Attorney General) relating to your transactions. 
-
-**Usage of Information.** WooCommerce Services may require Automattic’s servers, a
-connection to our partners, and/or data from your website, to work, as described on our
-[“What Data Does Jetpack Sync?” support
-page](https://jetpack.com/support/what-data-does-jetpack-sync/).
-
-**Prohibited Uses.** You may not use Ecommerce Services for any unlawful purposes, in
-furtherance of illegal activities, or in a manner that is unfair, deceptive, exposes us
-or customers to unreasonable risks, or does not disclose important terms of a
-transaction in advance.
-
-Ecommerce Services cannot be used in or for the benefit of a country, organization,
-entity, or person embargoed or blocked by any government, including those on [sanctions
-lists identified by the United States Office of Foreign Asset Control
-(OFAC)](https://www.treasury.gov/resource-center/sanctions).
-
-If you’re using Ecommerce Services on WordPress.com, you must not violate our [User
-Guidelines](https://en.support.wordpress.com/user-guidelines/) or [Store
-Guidelines](https://en.support.wordpress.com/store-guidelines/). If you're using
-Ecommerce Services to sell CBD and other hemp-derived products, you must not violate the
-[WooCommerce Guidelines for CBD and Other Hemp-Derived
-Products](https://docs.woocommerce.com/document/woocommerce-cbd/). 
-
-We may terminate your access to Ecommerce Services or force refunds (where possible) to
-your subscribers and customers without notice to you if we determine (in our sole
-discretion) that your use is in violation of these Terms, or if a payment processor or
-regulatory authority directs us to do so. 
-
-**Third Party Services.** You may choose to set up and/or use third party services, such
-as [Stripe](https://stripe.com/) or [PayPal](https://www.paypal.com/) to collect
-payment, [TaxJar](https://www.taxjar.com/) to calculate Taxes, or
-[EasyPost](https://www.easypost.com/) to manage shipping. Please note that WooCommerce
-Payments is powered by Stripe. If you use WooCommerce Payments or any third-party
-services, some of your — and your customers’ — data may be submitted directly to or
-passed to the respective third party, and the respective third party’s terms of service,
-privacy policy, and other policies may apply. For example, if you use [Recurring
-Payments](https://en.support.wordpress.com/recurring-payments-button/), you must create
-or use an existing Stripe account to manage payments, and by using Stripe, you agree to
-[their terms and policies](https://stripe.com/legal). Please note that third party
-services may also charge you fees to use or access their services, for example, as
-[Stripe does for Recurring
-Payments](https://en.support.wordpress.com/recurring-payments-button/#related-fees). 
-
-We are not involved in these relationships, but may facilitate transactions or
-communication. For example, we may, on your behalf, receive notices or forms relating to
-your Stripe account. 
-
-Please note that some of these third party services (like TaxJar if you use
-[Store](https://en.support.wordpress.com/store/)) may be enabled by default, but you may
-disable them before your store is set up. If you do not want to use these third party
-services, please disable them.
-
-**More on WooCommerce Payments Specifically.** WooCommerce Payments is integrated with
-Stripe, a third party that provides payment processing and related functions for your
-site. If you use WooCommerce Payments, you are entering into an agreement with Stripe
-subject to [Stripe’s Connected Account
-Agreement](https://stripe.com/connect-account/legal), [Stripe’s Services
-Agreement](https://stripe.com/ssa), and any other terms and policies incorporated by
-reference in those agreements (collectively, the “Stripe Agreement”). The Stripe
-Agreement is separate from these Terms. We are not a party to the Stripe Agreement and
-will not be liable or responsible for the services provided by Stripe. If Stripe
-discontinues providing these services through WooCommerce Payments, you authorize Stripe
-to share your payment method information with an alternative third-party payment
-processor that is or will be integrated into WooCommerce Payments.
-
-You agree to comply with the Stripe Agreement.  In particular, you may not use the
-WooCommerce Payments to enable any person (including you) to benefit from any activities
-Stripe has identified as a [restricted business or
-activity](https://stripe.com/restricted-businesses). 
-
-We may refuse, condition, or suspend any transaction or account (including your use of
-WooCommerce Payments) if we believe you have violated these Terms or if we believe your
-activities or transactions expose you, us, or others to unacceptable risks, as
-determined by us in our sole discretion. 
-
-You authorize us to share data relating to WooCommerce Payments with Stripe for their
-use in accordance with Stripe's privacy policy. Please refer to our privacy policy for
-details on how we otherwise collect, use, and disclose data made available to us as part
-of WooCommerce Payments.
-
-
-**Fees.** In some cases, you pay us fees relating to the Ecommerce Services you use. For
-example, for Recurring Payments, you pay us a
-[percentage](https://en.support.wordpress.com/recurring-payments-button/#related-fees)
-(which depends on your plan) of the revenue your website generates through Recurring
-Payments; you authorize Stripe to direct payment of that percentage to us. As another
-example, if you use WooCommerce Payments, there are [transaction fees and dispute
-fees](https://docs.woocommerce.com/document/payments/faq/fees/). Please note that we
-have no obligation to reimburse or refund these revenue-based fees when you issue
-refunds to your subscribers or customers.
-
-**Tax Calculations.** You are responsible for payment of all applicable Taxes relating
-to your ecommerce activities and your use of Ecommerce Services. You must collect,
-report, and/or pay the correct amounts to the appropriate authorities if applicable, and
-if needed, inform your customers about any Taxes they may be required to pay and issue
-appropriate invoices. While some Ecommerce Services (for example, tax calculations may
-be provided by TaxJar, if you are using Store) allow you to include sales taxes or Value
-Added Taxes in transactions, you should not rely solely on these features. While our
-goal is to keep our documents and tools up-to-date, tax laws change rapidly, and we do
-not guarantee that tax calculations you receive through or in connection with our
-Services are complete and accurate. Tax laws also differ from jurisdiction to
-jurisdiction and may be subject to different interpretations by different authorities.
-We recommend that you consult with a tax professional for your specific tax situation
-when assessing the correct tax rates you should charge.
-
-If we are obligated to pay or collect Taxes on your ecommerce activities or your use of
-Ecommerce Services, you are responsible for such Taxes, and we may collect payment for
-such Taxes.
-
-**Shipping Services.** Shipping labels are provided by EasyPost and allow you to take
-advantage of real-time shipping rates to purchase postage and print shipping labels from
-certain mailing services, such as [USPS](https://www.usps.com/) and [Canada
-Post](https://www.canadapost.ca/). We act only as an intermediary between you and these
-third parties; we are not involved in any way with your product or its shipment. We also
-do not warrant that the results you obtain from the use of these services (rates and
-labels, for example) will be accurate or reliable.
-
-You are solely responsible for compliance with all applicable rules and regulations,
-including domestic and international shipping and customs regulations and those of the
-relevant mailing service. For example, if you use USPS postage, you will need to comply
-with their [shipping restrictions](https://www.usps.com/ship/shipping-restrictions.htm)
-and [mailing standards](http://pe.usps.com/text/dmm300/dmm300_landing.htm), among
-others.
-
-In addition, you are solely responsible for customs charges, import taxes or duties, or
-any other charges related to your shipments. If any charges are assessed against us as a
-result of your use of the shipping services, you will reimburse us for the full amount
-within 7 days.
-
-You authorize us to charge you for the fees associated with each shipping label you
-create. Each fee will be charged separately to the payment methods you have provided in
-your WordPress.com account, which you can view and manage as described on [the Payments
-Methods support page](https://en.support.wordpress.com/payment/). If you have multiple
-payment methods, you can select which should be used for the shipping label service. If
-we are unable to collect payment from you for these fees, you will be responsible for
-payment within 7 days; please contact us to remit payment.
-
-Refunds for unused shipping labels must be requested in your store’s wp-admin within 30
-days of creating the label. Please note that depending on your bank and the third party
-involved, it may take up to 45 days for your refund to issue. If you haven’t received
-your refund within this time frame, please contact us.
-
-You may not transfer or sell postage and/or shipping labels to a third party.
-
-**Your Responsibilities.** You may only use Ecommerce Services for legitimate
-transactions with your customers. You are solely responsible for all of your ecommerce
-activities, including managing subscriptions for your website, managing your store, all
-applicable taxes and fees, compliance with the Payment Card Industry Data Security
-Standard (PCI DSS), and compliance with any applicable laws (such as those relating to
-automatic renewal). Among other things, this means that:
-
-* We are not involved in your relationships or transactions with any customer or
-  potential customer.
-* You should use your best judgment. For example, you may not want to accept check
-  payments if you’re not comfortable sharing your mailing address with customers.
-* You must accurately communicate transactions, set expectations appropriately, and
-  fulfill all promises, representations, or warranties you’ve made. For example, if
-  you’d like to provide your visitors or subscribers with a new post each week for
-  contributing to your site via [Recurring
-  Payments](https://en.support.wordpress.com/recurring-payments-button/), but aren’t
-  sure if you’ll be able to post that frequently, you should make it clear that it’s a
-  goal and not a guarantee.
-* You are responsible for the nature and quality of the products or services you
-  provide, and for delivery, support, refunds, returns, and any other ancillary services
-  you provide to your customers.
-* You are responsible for resolving all support questions, comments, and complaints,
-  including chargebacks and pricing questions. You must provide contact information so
-  that customers may contact you with questions or complaints.
-* You will maintain a fair return, refund, cancellation, or adjustment policy, and
-  clearly explain how customers can request a refund.
-* You are responsible for acquiring appropriate consent to submit charges through
-  WooCommerce Payments on your customers’ behalf, providing confirmation or receipts to
-  customers for each charge, verifying customers’ identities, and determining a
-  customer’s eligibility and authority to complete transactions.
-* If you believe that a transaction is erroneous or suspicious, you should research the
-  transaction and, if necessary, contact your customer before fulfilling or completing
-  the transaction.
-* If you have transactions with individuals (i.e. consumers), you specifically agree to
-  provide consumers disclosures required by law, and to not engage in unfair, deceptive,
-  or abusive acts or practices (“UDAAP”).
-* You are financially liable for disputes (including chargebacks), refunds, reversals,
-  or fines that arise from your use of Ecommerce Services.
-
 ## 8\. Copyright Infringement and DMCA Policy
 
 As we ask others to respect our intellectual property rights, we respect the
 intellectual property rights of others. If you believe that material located on or
-associated with an Automattic product or service violates your copyright, please notify
-us in accordance with [Automattic’s Digital Millennium Copyright Act (“DMCA”)
-Policy](https://automattic.com/dmca-notice/). We will respond to all such notices,
+associated with an Book Genesis product or service violates your copyright, please
+notify us in accordance with [Book Genesis’s Digital Millennium Copyright Act (“DMCA”)
+Policy](https://bookgenesis.com/dmca-notice/). We will respond to all such notices,
 including as required or appropriate by removing the infringing material or disabling
 all links to the infringing material. We will terminate a visitor’s access to and use of
 the website if, under appropriate circumstances, the visitor is determined to be a
-repeat infringer of the copyrights or other intellectual property rights of Automattic
+repeat infringer of the copyrights or other intellectual property rights of Book Genesis
 or others. In the case of such termination, we will have no obligation to provide a
 refund of any amounts previously paid to us.
 
 ## 9\. Intellectual Property
 
-The Agreement does not transfer from Automattic to you any Automattic or third party
+The Agreement does not transfer from Book Genesis to you any Book Genesis or third party
 intellectual property, and all right, title, and interest in and to such property will
-remain (as between the parties) solely with Automattic. Automattic, WordPress,
+remain (as between the parties) solely with Book Genesis. Book Genesis, WordPress,
 WordPress.com, the WordPress.com logo, and all other trademarks, service marks,
 graphics, and logos used in connection with WordPress.com or our Services, are
-trademarks or registered trademarks of Automattic or Automattic’s licensors. Other
+trademarks or registered trademarks of Book Genesis or Book Genesis’s licensors. Other
 trademarks, service marks, graphics, and logos used in connection with our Services may
 be the trademarks of other third parties. Your use of our Services grants you no right
-or license to reproduce or otherwise use any Automattic or third party trademarks.
+or license to reproduce or otherwise use any Book Genesis or third party trademarks.
 
 ## 10\. Third Party Services
 
@@ -672,7 +287,7 @@ or plugins), embeds, or applications developed by a third party or yourself (“
 Party Services”) on your website. If you use any Third Party Services, you understand
 that:
 
-* Third Party Services are not vetted, endorsed, or controlled by Automattic.
+* Third Party Services are not vetted, endorsed, or controlled by Book Genesis.
 * Any use of a Third Party Service is at your own risk, and we shall not be responsible
   or liable to anyone for Third Party Services.
 * Your use is solely between you and the respective third party (“Third Party”) and will
@@ -693,34 +308,20 @@ that:
 In rare cases, we may at our discretion, suspend, disable, or remove Third Party
 Services from your account or website.
 
-## 11\. G Suite
-
-If you purchase a G Suite subscription, this section applies. G Suite is provided by
-Google, and your use of G Suite is subject to [Google’s Terms of
-Use](https://www.google.com/apps/intl/en/terms/reseller_premier_terms.html) for the
-services, which you’ll accept prior to using G Suite for the first time. Automattic is
-an authorized reseller of G Suite, but makes no warranties about the services provided
-by Google, and disclaims Google’s liability for any damages arising from our
-distribution and resale of their services. Google will provide technical support for its
-services, per its [Technical Support Services
-Guidelines](https://www.google.com/apps/intl/en/terms/tssg.html). If you’re a business
-and purchase G Suite for your WordPress.com website, you represent that you have 749 or
-fewer staff members.
-
 ## 12\. Changes
 
 We are constantly updating our Services and that means sometimes we have to change the
 legal terms under which our Services are offered. These Terms may only be modified by a
-written amendment signed by an authorized executive of Automattic, or by the posting by
-Automattic of a revised version. If we make changes that are material, we will let you
-know by posting on one of our blogs, or by sending you an email or other communication
-before the changes take effect. The notice will designate a reasonable period of time
-after which the new terms will take effect. If you disagree with our changes, then you
-should stop using our Services within the designated notice period, or once the changes
-become effective. Your continued use of our Services will be subject to the new terms.
-However, any dispute that arose before the changes shall be governed by the Terms
-(including the binding individual arbitration clause) that were in place when the
-dispute arose.
+written amendment signed by an authorized executive of Book Genesis, or by the posting
+by Book Genesis of a revised version. If we make changes that are material, we will let
+you know by posting on one of our blogs, or by sending you an email or other
+communication before the changes take effect. The notice will designate a reasonable
+period of time after which the new terms will take effect. If you disagree with our
+changes, then you should stop using our Services within the designated notice period, or
+once the changes become effective. Your continued use of our Services will be subject to
+the new terms. However, any dispute that arose before the changes shall be governed by
+the Terms (including the binding individual arbitration clause) that were in place when
+the dispute arose.
 
 ## 13\. Termination
 
@@ -728,7 +329,7 @@ We may terminate your access to all or any part of our Services at any time, wit
 without cause, with or without notice, effective immediately. We have the right (though
 not the obligation) to, in our sole discretion, (i) reclaim your username or website’s
 URL due to prolonged inactivity, (ii) refuse or remove any content that, in our
-reasonable opinion, violates any Automattic policy or is in any way harmful or
+reasonable opinion, violates any Book Genesis policy or is in any way harmful or
 objectionable, (iii) ask you to make some adjustments, restrict the resources your
 website uses, or terminate your Services, if we believe your website’s storage or
 bandwidth usage is out of hand and/or burdens our systems (which is rare and typically
@@ -746,10 +347,10 @@ disclaimers, indemnity, and limitations of liability.
 
 ## 14\. Disclaimer of Warranties
 
-Our Services are provided “as is.” Automattic and its suppliers and licensors hereby
+Our Services are provided “as is.” Book Genesis and its suppliers and licensors hereby
 disclaim all warranties of any kind, express or implied, including, without limitation,
 the warranties of merchantability, fitness for a particular purpose and
-non-infringement. Neither Automattic, nor its suppliers and licensors, makes any
+non-infringement. Neither Book Genesis, nor its suppliers and licensors, makes any
 warranty that our Services will be error free or that access thereto will be continuous
 or uninterrupted. If you’re actually reading this, [here’s a
 treat](https://wordpress.com/tos/treat/). You understand that you download from, or
@@ -777,25 +378,26 @@ or proceeding to enforce the Agreement shall be entitled to costs and attorneys�
 
 ## 17\. Limitation of Liability
 
-In no event will Automattic, or its suppliers, partners, or licensors, be liable with
+In no event will Book Genesis, or its suppliers, partners, or licensors, be liable with
 respect to any subject matter of the Agreement under any contract, negligence, strict
 liability or other legal or equitable theory for: (i) any special, incidental or
 consequential damages; (ii) the cost of procurement for substitute products or services;
 (iii) for interruption of use or loss or corruption of data; or (iv) for any amounts
-that exceed $50 or the fees paid by you to Automattic under the Agreement during the
-twelve (12) month period prior to the cause of action, whichever is greater. Automattic
-shall have no liability for any failure or delay due to matters beyond their reasonable
-control. The foregoing shall not apply to the extent prohibited by applicable law.
+that exceed $50 or the fees paid by you to Book Genesis under the Agreement during the
+twelve (12) month period prior to the cause of action, whichever is greater. Book
+Genesis shall have no liability for any failure or delay due to matters beyond their
+reasonable control. The foregoing shall not apply to the extent prohibited by applicable
+law.
 
 ## 18\. Indemnification
 
-You agree to indemnify and hold harmless Automattic, its contractors, and its licensors,
-and their respective directors, officers, employees, and agents from and against any and
-all losses, liabilities, demands, damages, costs, claims, and expenses, including
-attorneys’ fees, arising out of or related to your use of our Services, including but
-not limited to your violation of the Agreement or any agreement with a provider of
-third-party services used in connection with the Services, Content that you post, and
-any ecommerce activities conducted through your or another user’s website.
+You agree to indemnify and hold harmless Book Genesis, its contractors, and its
+licensors, and their respective directors, officers, employees, and agents from and
+against any and all losses, liabilities, demands, damages, costs, claims, and expenses,
+including attorneys’ fees, arising out of or related to your use of our Services,
+including but not limited to your violation of the Agreement or any agreement with a
+provider of third-party services used in connection with the Services, Content that you
+post, and any ecommerce activities conducted through your or another user’s website.
 
 ## 19\. US Economic Sanctions
 
@@ -818,18 +420,18 @@ and the English version, the English version will control.
 
 ## 22\. Miscellaneous
 
-The Agreement constitutes the entire agreement between Automattic and you concerning the
-subject matter hereof. If any part of the Agreement is held invalid or unenforceable,
-that part will be construed to reflect the parties’ original intent, and the remaining
-portions will remain in full force and effect. A waiver by either party of any term or
-condition of the Agreement or any breach thereof, in any one instance, will not waive
-such term or condition or any subsequent breach thereof. You may assign your rights
-under the Agreement to any party that consents to, and agrees to be bound by, its terms
-and conditions; Automattic may assign its rights under the Agreement without condition.
-The Agreement will be binding upon and will inure to the benefit of the parties, their
-successors and permitted assigns. 
+The Agreement constitutes the entire agreement between Book Genesis and you concerning
+the subject matter hereof. If any part of the Agreement is held invalid or
+unenforceable, that part will be construed to reflect the parties’ original intent, and
+the remaining portions will remain in full force and effect. A waiver by either party of
+any term or condition of the Agreement or any breach thereof, in any one instance, will
+not waive such term or condition or any subsequent breach thereof. You may assign your
+rights under the Agreement to any party that consents to, and agrees to be bound by, its
+terms and conditions; Book Genesis may assign its rights under the Agreement without
+condition. The Agreement will be binding upon and will inure to the benefit of the
+parties, their successors and permitted assigns. 
 
-## 23\. Source
+## 23\. License and Attribution
 
 These Terms are derived from Automattic's [WordPress Terms of
 Service](https://github.com/Automattic/legalmattic/blob/master/Terms%20of%20Service/WordPress.com/EN-Terms-of-Service.md)
